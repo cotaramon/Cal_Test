@@ -22,5 +22,5 @@ function makeDate() {
               } else {
                   day = '' + dt.getDate();
               }
-              alert( day + '' + Monate[dt.getMonth()] + '' + String(dt.getYear()).substr(1, 2));
+              return day + '' + Monate[dt.getMonth()] + '' + String(dt.getYear()).substr(1, 2);
           }
