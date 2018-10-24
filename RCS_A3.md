@@ -1,8 +1,10 @@
 # A3 RampenChecksheet
 
-__immer zuerst Vetreter anrufen__
+__Bei Problemen immer zuerst Vetreter informieren__
 
-Diese werden sehr ungehalten, sollten sie nicht __sofort__ informiert werden
+😂
+
+Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert werden
 
 ## LMC-Gewichte
 
