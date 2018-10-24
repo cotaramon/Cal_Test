@@ -18,9 +18,13 @@ Headset-Annahme und Pushback by OPS-RA
 
 Hold 5 checken, wegen AVIH!
 
-### Kein DGR__
+### Kein DGR
 
 Frühzeitig checken ob Cleaning und Tanker vor Ort
+
+Proaktiv vorgehen
+
+Ansonsten wie Holger Gamböck
 
 ## Markdown Example
 
