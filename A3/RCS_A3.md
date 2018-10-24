@@ -47,7 +47,7 @@ Style text as _italic_, __bold__, or `inline code`.
 ## Links
 
 You can use [hyperlinks](tel://08001507090) in markdown
-![Google](http://www.google.com)
+[Google](http://www.google.com)
 
 ## Images
 
