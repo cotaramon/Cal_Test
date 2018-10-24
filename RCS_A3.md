@@ -1,3 +1,12 @@
+# A3 RampenChecksheet
+
+## __immer zuerst Vetreter anrufen__
+Diese werden sehr ungehalten, sollten sie nicht __sofort__ informiert werden
+
+## LMC-Gewichte
+
+88/70/35/0/15
+
 # Markdown Example
 Markdown allows you to easily include formatted text, images, and even formatted Dart code in your app.
 
