@@ -1,6 +1,6 @@
 # A3 RampenChecksheet
 
-__Bei Problemen immer zuerst Vetreter informieren__
+## Bei Problemen immer zuerst Vetreter informieren
 
 😂
 
@@ -15,6 +15,10 @@ Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert we
 ist bei uns im Glaskasten
 
 Headset-Annahme und Pushback by OPS-RA
+
+Hold 5 checken, wegen AVIH!
+__Kein DGR__
+Frühzeitig checken ob Cleaning und Tanker vor Ort
 
 ## Markdown Example
 
