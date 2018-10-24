@@ -14,6 +14,10 @@ ist bei uns im Glaskasten
 
 Das war keine gute Idee
 
+прыпорыпврпрывалолоуотвоРПРПРлЛОо
+
+ЛОЛДОДлооруцорва рп  е п
+
 ___
 
 Headset-Annahme und Pushback by OPS-RA
