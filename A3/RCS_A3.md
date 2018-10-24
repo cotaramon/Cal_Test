@@ -6,6 +6,8 @@
 
 Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert werden
 
+__Adrian ist doof!__
+
 ## LMC-Gewichte
 
 88/70/35/0/15
