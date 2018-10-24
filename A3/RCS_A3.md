@@ -12,14 +12,19 @@ Diese können sehr ungehalten reagieren, sollten sie nicht __sofort__ informiert
 
 ist bei uns im Glaskasten
 
-Headset-Annahme und Pushback by OPS-RA
+Das war keine gute Idee
 
+___
+
+Headset-Annahme und Pushback by OPS-RA
+___
 Hold 5 checken, wegen AVIH!
 
 ### Kein DGR
 
+___
 Frühzeitig checken ob Cleaning und Tanker vor Ort
-
+___
 Proaktiv vorgehen
 
 Ansonsten wie Holger Gamböck
@@ -42,7 +47,7 @@ Style text as _italic_, __bold__, or `inline code`.
 - To better clarify
 - Your points
 
----
+___
 
 ## Links
 
