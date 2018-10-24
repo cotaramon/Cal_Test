@@ -2,11 +2,7 @@
 
 ## Bei Problemen immer zuerst Vetreter informieren
 
-🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇦🇽🇦🇱🇩🇿🏳️‍🌈🚩🚩🚩 lasst diesen Quatsch!
-
-Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert werden
-
-__Adrian ist furzdoof!__
+Diese können sehr ungehalten reagieren, sollten sie nicht __sofort__ informiert werden
 
 ## LMC-Gewichte
 
