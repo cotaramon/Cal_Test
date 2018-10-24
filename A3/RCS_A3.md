@@ -2,7 +2,7 @@
 
 ## Bei Problemen immer zuerst Vetreter informieren
 
-😂❤️❤️❤️❤️❤️❤️ lasst diesen Quatsch!
+🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇪🇬🇦🇽🇦🇱🇩🇿🏳️‍🌈🚩🚩🚩 lasst diesen Quatsch!
 
 Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert werden
 
