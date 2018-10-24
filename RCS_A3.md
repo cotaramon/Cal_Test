@@ -16,15 +16,16 @@ ist bei uns im Glaskasten
 
 Headset-Annahme und Pushback by OPS-RA
 
-# Markdown Example
+## Markdown Example
+
 Markdown allows you to easily include formatted text, images, and even formatted Dart code in your app.
 
 [click on this link](#finale)
 
-# My Multi Word Header
-
+## My Multi Word Header
 
 ## Styling
+
 Style text as _italic_, __bold__, or `inline code`.
 
 - Use bulleted lists
@@ -32,11 +33,9 @@ Style text as _italic_, __bold__, or `inline code`.
 - Your points
 
 ---
-***
-___
-
 
 ## Links
+
 You can use [hyperlinks](tel://08001507090) in markdown
 [Google](http://www.google.com)
 
@@ -53,83 +52,19 @@ This is an example of how to create your own Markdown widget:
     new Markdown(data: 'Hello _world_!');
 
 ## Code blocks
+
 Formatted Dart code looks really pretty too:
 
-```
+```dart
 void main() {
   runApp(new MaterialApp(
     home: new Scaffold(
       body: new Markdown(data: markdownData)
     )
   ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}void main() {
-  runApp(new MaterialApp(
-    home: new Scaffold(
-      body: new Markdown(data: markdownData)
-    )
-  ));
-}
+
 ```
+
 ## Finale
 
 Doors are locked!
