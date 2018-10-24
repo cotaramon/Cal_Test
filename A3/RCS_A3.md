@@ -6,7 +6,7 @@
 
 Diese können sehr ungehalten werden, sollten sie nicht __sofort__ informiert werden
 
-__Adrian ist doof!__
+__Adrian ist furzdoof!__
 
 ## LMC-Gewichte
 
