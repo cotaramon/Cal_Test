@@ -12,7 +12,9 @@ Diese können sehr ungehalten reagieren, sollten sie nicht __sofort__ informiert
 
 ist bei uns im Glaskasten
 
-Das war keine gute Idee
+## LS-Procedure
+
+LS wird sobald AF released. Wird vom Gate ausgedruckt
 
 ___
 
