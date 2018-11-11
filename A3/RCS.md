@@ -1,5 +1,7 @@
 # A3 RampenChecksheet
 
+📞 [Vertreter A3](tel://08001507090)
+
 📞 [Tanker Sky](tel://08001507090)
 
 📞 [Catering Air MUC](tel://08001507090)
@@ -10,19 +12,14 @@
 
 ## Bei Problemen immer zuerst Vetreter informieren
 
-Diese können sehr ungehalten reagieren, sollten sie nicht __sofort__ informiert werden
-
 ## LMC-Gewichte
 
 88/70/35/0/15
 
 ## LoadControl
 
-ist bei uns im horbach
-
 ## LS-Procedure
 
-LS wird sobald AF released. Wird vom Gate ausgedruckt
 
 ___
 
@@ -35,11 +32,6 @@ Hold 5 checken, wegen AVIH!
 ___
 Frühzeitig checken ob Cleaning und Tanker vor Ort
 ___
-Proaktiv vorgehen
-
-Ansonsten wie Holger Gamböck
-
-Nicht wie die anderen Leuchten!!!!!?
 
 ## Markdown Example
 
@@ -90,8 +82,6 @@ void main() {
 
 ```
 
-## Finale
 
-Doors are locked!
 
 Enjoy!
