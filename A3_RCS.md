@@ -1,4 +1,3 @@
-# Aegean Airlines
 # A3 RampenChecksheet
 
 📞 [Vertreter A3](tel://08001507090)

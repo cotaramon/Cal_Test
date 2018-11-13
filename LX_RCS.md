@@ -1,4 +1,3 @@
-# Swiss 
 # LX RampenChecksheet
 
 📞 [Tanker Sky](tel://08001507090)
