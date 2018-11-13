@@ -1,10 +1,25 @@
 # KM RampenChecksheet
 
-📞 [Tanker Sky](tel://08001507090)
+📞 [Tanker AFS](tel://08001507090)
 
-📞 [Catering Air MUC](tel://08001507090)
+📞 [Catering LSG](tel://08001507090)
 
-📞 [Cleaning Heico](tel://08001507090)
+📞 [Cleaning Camso](tel://08001507090)
 
-📞 [Technik EN](tel://08001507090)
+📞 [Technik LH](tel://08001507090) Contact PIC first!
 
+📞 [Aeroground](tel://08001507090) 
+
+📞 [Cargogate](tel://08001507090) 
+
+## LMC-Gewichte 88/70/35/0/15
+
+HeadsetAnnanhme und Pushback durch LH-RA
+
+## Chocks
+
+Hauptfahrwerk beidseitig aussen je 2x + Bugfahrwerk 2x
+
+## Pylonen
+
+analog LH
