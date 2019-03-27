@@ -23,11 +23,11 @@
 
 ___
 
-Headset-Annahme und Pushback by OPS-RA
+Headset-Annahme by Holger und Pushback by OPS-RA
 ___
 Hold 5 checken, wegen AVIH!
 
-### Kein DGR
+### Kein DGR niemals
 
 ___
 Frühzeitig checken ob Cleaning und Tanker vor Ort
