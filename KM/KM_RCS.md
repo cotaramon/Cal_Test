@@ -8,9 +8,9 @@
 
 📞 [Technik LH](tel://08001507090) Contact PIC first!
 
-📞 [Aeroground](tel://08001507090) 
+📞 [Aeroground](tel://08001507090)
 
-📞 [Cargogate](tel://08001507090) 
+📞 [Cargogate](tel://08001507090)
 
 ## LMC-Gewichte 88/70/35/0/15
 
