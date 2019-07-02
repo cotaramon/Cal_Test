@@ -60,7 +60,7 @@ You can use [hyperlinks](tel://08001507090) in markdown
 
 You can include images:
 
-![Flutter logo](https://flutter.io/images/flutter-mark-square-100.png#100x100)
+![Flutter logo](https://www.codemate.com/wp-content/uploads/2016/02/flutter-logo-round.png#100x100)
 
 ## Markdown widget
 
