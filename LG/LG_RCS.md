@@ -18,5 +18,5 @@ s
 df
 sdf
 
-[Lufthansa GOM](OU/OU_RCS.md)
+[Lufthansa GOM](https://raw.githubusercontent.com/cotaramon/Cal_Test/master/OU/OU_RCS.md)
 
