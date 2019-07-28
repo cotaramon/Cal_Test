@@ -1,2 +1,54 @@
-Loadsheet
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+FINAL
+L O A D S H E E T          ISSUED BY       APPROVED        EDNO
+ALL WEIGHTS IN KILOGRAMS                            01
+
+FROM/TO FLIGHT      A/C REG  VERSION      CREW     DATE    TIME
+MUC XXX LHXXXX/17   XXXXX    90M          2/2      17MAR17 0737
+
+                        WEIGHT           DISTRIBUTION
+LOAD IN COMPARTMENTS       117     1/     0 2/     0 6/   117 
+                                   0/     0 
+
+PASSENGER/CABIN BAG       2184  26/  0/  0     TTL  26 CAB 0
+                               TOB  30
+                               PAX   4/ 22     SOC   0/  0 
+                               BLKD  0
+TOTAL TRAFFIC LOAD        2301
+DRY OPERATING WEIGHT     22628
+ZERO FUEL WEIGHT ACTUAL  24929 MAX  32092  L   ADJ
+TAKE OFF FUEL             3200
+TAKE OFF WEIGHT  ACTUAL  28129 MAX  37995      ADJ
+TRIP FUEL                 1458
+LANDING WEIGHT   ACTUAL  26671 MAX  34065      ADJ
+
+BALANCE AND SEATING CONDITIONS .      LAST MINUTE CHANGES
+                 DOI      51.2 .DEST  SPEC    CL/CPT | - WEIGHT
+                 LIZFW    33.6 .
+MACZFW   17.7                  .
+LITOW    31.4    MACTOW   16.8 .
+STAB:20                  7.4 UP.
+STAB:8                   7.2 UP.
+A4.B4.C6.D4.E5.F2.G1           .
+SEATROW TRIM                   .
+                               .
+UNDERLOAD BEFORE LMC       7163.           LMC TOTAL
+LOADMESSAGE AND CAPTAINS INFORMATION BEFORE LMC
+
+TAXI FUEL  100 TAXI WGT  28229 MAX   38222
+
+-PAD.26/0/0.0.T117.6/117
+.PAX/4/22.PAD/0/0
+
+SI SERVICE WEIGHT ADJUSTMENT WEIGHT/INDEX
+ADD
+PAD POTABLE WATER FULL         100 PCT       79     0.6-
+PAD DAA                                      0      0.0
+DEDUCTIONS
+NIL
+LIZFW LIMITS +   25.0/+   56.3         NOW: +   33.6
+LITOW LIMITS +   22.8/+   62.1         NOW: +   31.4
+SALEABLE CONFIGURATION 11C/68M
+PREPARED BY  
+ISSUANCE DATE AND TIME: 17MAR 06:37 UTC
+
+AUTHORISED WEIGHTS USED FOR PASSENGERS CREW AND BAGGAGE
