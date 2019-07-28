@@ -18,5 +18,5 @@ s
 df
 sdf
 
-[Lufthansa GOM](http://www.google.com)
+[Lufthansa GOM](OU/OU_RCS.md)
 
