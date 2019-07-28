@@ -18,8 +18,6 @@ HeadsetAnnanhme und Pushback durch LH-RA
 
 ## Chocks
 
-Holger ist fast super
-
 Hauptfahrwerk beidseitig aussen je 2x + Bugfahrwerk 2x
 
 ## Pylonen
