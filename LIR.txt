@@ -1,0 +1,164 @@
+LOADING INSTRUCTION/REPORT  PREPARED BY XXXXXXXXXXXXXXXXXXEDNO
+ALL WEIGHTS IN KG                                           2
+FROM/TO FLIGHT  A/C REG   VERSION   GATE TARMAC   DATE     TIME
+MUC XXX XXXXX   XXXXX     A340-600  LOC XXX       22NOV17  1209
+PLANNED JOINING LOAD
+LAX    F 6      C 41     E 32     M 170    C 13283  M 0      B 5410   
+JOINING SPECS:   SEE SUMMARY
+TRANSIT SPECS:   SEE SUMMARY
+RELOADS:         
+                                                         ACTUAL
+                                                         PIECES
+LOADING INSTRUCTION                                      WEIGHT
+***************************************************************
+CPT 1     MAX 09319
+:11P  PMC86933LH P                                     :      D
+:ONLOAD: LAX C/656                                     :      O
+:SPECS: NONE                                           :      O
+:REPORT:                                               :      R
+---------------------------------------------------------------
+:12P  PMC45327LH P                                     :       
+:ONLOAD: LAX C/1239                                    :       
+:SPECS: NONE                                           :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:13P  PMC80025LH P                                     :       
+:ONLOAD: LAX C/878                                     :       
+:SPECS: XCS AOG                                        :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:14P  PMC47614LH F                                     :       
+:ONLOAD: LAX C/1278                                    :       
+:SPECS: PWG XCS                                        :       
+:REPORT:                                   CPT  1 TOTAL:       
+***************************************************************
+CPT 2     MAX 18192
+:21P  PMC81663LH P                                     :       
+:ONLOAD: LAX C/1641                                    :       
+:SPECS: NONE                                           :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:22P  PMC85224LH P                                     :       
+:ONLOAD: LAX C/1884                                    :       
+:SPECS: XCS WET PPL PES PER EAT AOG                    :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:23P  PMC83667LH F                                     :       
+:ONLOAD: LAX C/2219                                    :       
+:SPECS: PWG XCS                                        :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:24P  PMC31726LH F                                     :       
+:ONLOAD: LAX C/2232                                    :       
+:SPECS: PWG                                            :       
+:REPORT:                                   CPT  2 TOTAL:       
+***************************************************************
+CPT 3     MAX 11546
+:33  PLW44223LH F                                      :       
+:ONLOAD: LAX C/1160                                    :       
+:SPECS: PWG XCS                                        :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:34L  AKE69331LH           :34R  AKE69425LH            :       
+:ONLOAD: LAX C/96          :ONLOAD: LAX BY/            :       
+:SPECS: XCS                :            869/43PCS*     :       
+:REPORT:                   :SPECS: NONE                :       
+:                          :REPORT:        CPT  3 TOTAL:       
+***************************************************************
+CPT 4     MAX 08170
+:41L  AKE65809LH           :41R  AKE61117LH            :       
+:ONLOAD: LAX BY/           :ONLOAD: LAX BY/            :       
+:            738/36PCS*    :            827/40PCS*     :       
+:SPECS: NONE               :SPECS: NONE                :       
+:REPORT:                   :REPORT:                    :       
+---------------------------------------------------------------
+:42L  AKE66683LH           :42R  AKE60876LH            :      D
+:ONLOAD: LAX BY/           :ONLOAD: LAX BY/            :      O
+:            832/41PCS*    :            454/20PCS*     :      O
+:SPECS: NONE               :SPECS: NONE                :      R
+:REPORT:                   :REPORT:                    :       
+---------------------------------------------------------------
+:43L  AKE67040LH           :43R  AKE67107LH            :      D
+:ONLOAD: LAX BC/           :ONLOAD: LAX BC/            :      O
+:            736/36PCS*    :            215/8PCS*      :      O
+:SPECS: NONE               :            BY/            :      R
+:REPORT:                   :            0*             :       
+:                          :SPECS: NONE                :       
+:                          :REPORT:        CPT  4 TOTAL:       
+***************************************************************
+CPT 5     MAX 02092
+:51                                                    :       
+:ONLOAD: LAX E/0 D/15PCS                               :       
+:            BF R/                                     :       
+:            147/8PCS*                                 :       
+:            BC R/                                     :       
+:            279/15PCS*                                :       
+:SPECS: CSU                                            :       
+:REPORT:                                               :       
+---------------------------------------------------------------
+:52                                                    :       
+:NO FIT                                                :       
+:                                                      :       
+:                                                      :       
+---------------------------------------------------------------
+:53                                                    :       
+:ONLOAD: LAX BT R/                                     :       
+:            145/9PCS*                                 :       
+:            BY R/                                     :       
+:            168/9PCS*                                 :       
+:SPECS: NONE                                           :       
+:REPORT:                                   CPT  5 TOTAL:       
+***************************************************************
+LOCN  JOIN/TRAN DEST  CAT  IMP  PCS  WEIGHT  TI    AWB
+***************************************************************
+13P   JOIN      LAX   C    XCS                     020-75538842
+13P   JOIN      LAX   C    AOG                     020-75538842
+---------------------------------------------------------------
+14P   JOIN      LAX   C    PWG                                 
+14P   JOIN      LAX   C    XCS                     020-67632596
+---------------------------------------------------------------
+22P   JOIN      LAX   C    XCS                     020-75538842
+22P   JOIN      LAX   C    WET                     020-40342831
+22P   JOIN      LAX   C    PPL                     020-40342831
+22P   JOIN      LAX   C    PES                     020-40342831
+22P   JOIN      LAX   C    PER                     020-40342831
+22P   JOIN      LAX   C    EAT                     020-40342831
+22P   JOIN      LAX   C    AOG                     020-75538842
+---------------------------------------------------------------
+23P   JOIN      LAX   C    PWG                                 
+23P   JOIN      LAX   C    XCS                     020-68277650
+---------------------------------------------------------------
+24P   JOIN      LAX   C    PWG                                 
+---------------------------------------------------------------
+33    JOIN      LAX   C    PWG                                 
+33    JOIN      LAX   C    XCS                     020-68277650
+---------------------------------------------------------------
+34L   JOIN      LAX   C    XCS                     020-70782121
+---------------------------------------------------------------
+51    JOIN      LAX   E    CSU       0                         
+SI PREPARED BY XXXXXXXXXXXXX 
+SALEABLE CONFIGURATION 8F/44C/32E/213M
+SERVICE WEIGHT ADJUSTMENT WEIGHT/INDEX
+ADD
+LAX POTABLE WATER 6/8           75 PCT       803    2.0
+CPT2   PER   TEMP 5-25C
+CPT2   PES   TEMP 5-11C
+CPT2   PPL   TEMP 5-11C
+14P/PMC47614LH
+RNG/12.4
+LIZFW LIMITS +   26.2/+   84.6         NOW: +   46.5
+LITOW LIMITS +   22.6/+   99.7         NOW: +   48.9
+
+This aircraft has been loaded in accordance with company 
+instructions including the deviations reported. 
+Load has been secured and compartments have been found free of 
+items which do not belong there.
+There is no evidence that any damaged or leaking packages 
+containing dangerous goods have been loaded on the aircraft.
+
+SIGNATURE:__________________________________________
+
+FINAL REPORT TO COCKPIT
+TOTAL PAX ON BOARD:
+OFP EDNO IN COC:          
+LS EDNO IN COC:                NOTOC EDNO IN COC:
