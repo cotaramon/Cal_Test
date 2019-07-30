@@ -1,6 +1,6 @@
 # KM RampenChecksheet
 
-📞 [Tanker AFS](tel://095141307)
+📞 [Tanker AFS](tel://08001507090)
 
 📞 [Catering LSG](tel://08001507090)
 
