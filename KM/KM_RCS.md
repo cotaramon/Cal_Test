@@ -25,3 +25,26 @@ Hauptfahrwerk beidseitig aussen je 2x + Bugfahrwerk 2x
 analog LH
 
 Test123
+
+
+LMC-Gewichte 88/70/35/0/15
+HeadsetAnnanhme und Pushback durch LH-RA
+
+Chocks
+Hauptfahrwerk beidseitig aussen je 2x + Bugfahrwerk 2x
+
+Pylonen
+analog LH
+
+Test123
+
+LMC-Gewichte 88/70/35/0/15
+HeadsetAnnanhme und Pushback durch LH-RA
+
+Chocks
+Hauptfahrwerk beidseitig aussen je 2x + Bugfahrwerk 2x
+
+Pylonen
+analog LH
+
+Test123
